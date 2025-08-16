@@ -1,3 +1,12 @@
+# Ignore macOS junk
+.DS_Store
+
+# Ignore virtual environments
 venv/
 __pycache__/
-*.pyc
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large data if needed
+*.csv
