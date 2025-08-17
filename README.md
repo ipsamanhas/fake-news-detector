@@ -6,7 +6,7 @@ This project aims to classify news articles based on their text content using ba
 
 ## Dataset
 The dataset contains two CSV files:
-- Fake.csv — Fake news articles
+- 'Fake.csv' — Fake news articles
 - `True.csv` — True news articles
 
 Each file includes:
