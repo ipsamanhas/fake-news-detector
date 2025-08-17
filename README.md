@@ -1,4 +1,4 @@
-# Fake News Detector
+# 📰 Fake News Detector
 A machine learning project that detects whether a news article is **FAKE** or **TRUE** using Natural Language Processing (NLP) and Logistic Regression.
 
 ## Overview
@@ -14,3 +14,10 @@ Each file includes:
 - `text`
 - `subject`
 - `date`
+
+## 🧰 Tech Stack
+- Python 
+- Pandas
+- Scikit-learn
+- Matplotlib
+- TF-IDF (Text Preprocessing)
