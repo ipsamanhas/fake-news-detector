@@ -34,7 +34,7 @@ Each file includes:
 1. **Data Loading**  
    Combined `Fake.csv` and `True.csv` datasets with appropriate labels.
 
-   ![Data Loading](images/01_data loading.png)
+   ![Data Loading](images/01_data%20loading.png)
 
 2. **Data Preprocessing & Splitting**  
    TF-IDF Vectorizer used to transform the text. Data split into train and test sets.
@@ -46,4 +46,4 @@ Each file includes:
    Achieved an accuracy of `98.99%` .  
    Below is the confusion matrix:
 
-   ![Confusion Matrix](images/03_confusion matrix.png)
+   ![Confusion Matrix](images/03_confusion%20matrix.png)
