@@ -29,3 +29,21 @@ Each file includes:
 4. Train logistic regression model
 5. Evaluate with accuracy score, classification report, and confusion matrix
 
+## How it Works
+
+1. **Data Loading**  
+   Combined `Fake.csv` and `True.csv` datasets with appropriate labels.
+
+   ![Data Loading](images/01_data_loading.png)
+
+2. **Data Preprocessing & Splitting**  
+   TF-IDF Vectorizer used to transform the text. Data split into train and test sets.
+
+3. **Model Training**  
+   Trained using a Passive Aggressive Classifier.
+
+4. **Evaluation**  
+   Achieved an accuracy of `98.99%` .  
+   Below is the confusion matrix:
+
+   ![Confusion Matrix](images/03_confusion_matrix.png)
